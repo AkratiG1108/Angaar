@@ -1,5 +1,5 @@
 let a="akrati";
-let b="kumar";
+let b="gupta";
 let c=a+b;
 console.log(c);
 // string concartination 
@@ -13,7 +13,7 @@ console.log(c);
 // let fulname = first+" "+last;
 
 // console.log(fulname);
-let middle = "singh";
-let c = Ashish ${middle} Kumar
+let middle = "garg";
+let c = Akrati ${middle} Gupta
 
 console.log(c)
